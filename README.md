@@ -7,6 +7,7 @@
 ## Env
 
 - VS Code
+  - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
 ## Setup
 
@@ -19,3 +20,9 @@
   ```bash
   rustup update
   ```
+
+## Learning
+
+### 00 Hello World
+
+- [Hello World](./01_HelloWorld/hello_world.rs)
